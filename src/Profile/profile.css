@@ -1,0 +1,63 @@
+.container {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+  max-width: 1500px;
+  max-height: 1500px;
+  border-radius: 5px;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 30px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.left-div {
+  width: 30%;
+  float: center;
+}
+
+.right-div {
+  width: 70%;
+  float: right;
+}
+
+h6 {
+  text-align: left;
+  display: inline;
+}
+
+p {
+  display: inline;
+}
+
+.picture { 
+  width: 150px;
+}
+
+.passwordClass {
+  border: none;
+  background-color: white;
+  color: red;
+  display: flex;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+button.passwordClass:active {
+  border: none;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.btn1 {
+  background-color: rgb(63, 146, 235);
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
