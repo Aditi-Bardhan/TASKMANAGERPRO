@@ -1,0 +1,9 @@
+com\springbuilderstream\controller\PropertyControler.class
+com\springbuilderstream\repository\UserPictureRepository.class
+com\springbuilderstream\repository\PropertyRepo.class
+com\springbuilderstream\repository\UserRepo.class
+com\springbuilderstream\entity\UserPicture.class
+com\springbuilderstream\SpringBuilderstreamApplication.class
+com\springbuilderstream\entity\Properties.class
+com\springbuilderstream\controller\Controller.class
+com\springbuilderstream\entity\User.class
